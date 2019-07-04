@@ -1,14 +1,14 @@
 {
-  "name": "one-dark-syntax",
+  "name": "one-dark-adwaita-syntax",
   "theme": "syntax",
   "version": "1.8.4",
-  "description": "A dark syntax theme",
+  "description": "A dark syntax theme adjusted to fit the Adwaita Dark theme",
   "keywords": [
     "dark",
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/nilsjor/one-dark-adwaita-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
